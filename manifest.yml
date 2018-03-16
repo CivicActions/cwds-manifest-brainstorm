@@ -1,0 +1,42 @@
+##################################################################################
+# How to read:
+#   (environment):
+#     (component): (tagged version number)
+##################################################################################
+preint:
+  intake: 1.1.0
+  intake_api: 1.8.0
+  cals: 1.9.2
+  cals-api: 1.9.6
+  case-management: 2.0.1
+  case-management-api: 2.2.0
+  de-ansible: 1.2.0
+  db2data: 1.8.1
+  # ... (more things) 
+int:
+  intake: 1.0.5
+  intake_api: 1.7.1
+  cals: 1.9.2
+  cals-api: 1.9.6
+  case-management: 2.0.1
+  case-management-api: 2.2.0
+  de-ansible: 1.1.0
+  # ... (more things)
+stage:
+  intake: 1.0.5
+  intake_api: 2.0.5
+  cals: 1.9.2
+  cals-api: 1.9.6
+  case-management: 2.0.1
+  case-management-api: 2.2.0
+  de-ansible: 1.1.0
+  # ... (more things)
+prod:
+  intake: 1.0.5
+  intake_api: 2.0.5
+  cals: 1.9.2
+  cals-api: 1.9.6
+  case-management: 2.0.1
+  case-management-api: 2.2.0
+  de-ansible: 1.1.0
+  # ... (more things)
